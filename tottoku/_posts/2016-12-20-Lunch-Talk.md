@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第７回定例会「女性IT技術者・研究者のロールモデル!?」を開催しました
+title:
 ---
 ![wit2.png]({{site.baseurl}}/images/wit2.png)
 12月20日(火) ランチタイムを使って、
